@@ -61,7 +61,41 @@ Output screenshots are available in the screenshots folder.
 
 ## 🧪 Testing
 
-See test_cases.txt for sample test cases and expected outputs.
+**Test Case 1**
+```
+Enter student name: Lokesh Rawat
+Enter marks (0-100): 85
+
+ RESULT FOR LOKESH RAWAT
+------------------------------
+Marks: 85.0/100
+Grade: B
+Message: Very Good! Keep it up
+```
+
+**Test Case 2**
+```
+Enter student name: Divya Negi
+Enter marks (0-100): 65
+
+ RESULT FOR DIVYA NEGI
+------------------------------
+Marks: 65.0/100
+Grade: D
+Message: Keep practicing and improving!
+```
+
+**Test Case 3**
+```
+Enter student name: Loya Rawat
+Enter marks (0-100): 95
+
+ RESULT FOR LOYA RAWAT
+------------------------------
+Marks: 95.0/100
+Grade: A
+Message: Excellent Work! Keep shining!
+```
 
 ---
 
