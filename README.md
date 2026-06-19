@@ -52,7 +52,10 @@ python grade_calculator.py
 ---
 
 ## 📸 Screenshots
-![Program Output](Screenshot.png1.png)
+
+Output screenshots are available in the screenshots folder.
+
+![screenshot1](screenshots/screenshot1.png)
 
 ---
 
